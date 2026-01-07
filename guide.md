@@ -5,3 +5,4 @@
   "price": 55000,
   "category": "Electronics"
 }
+- .env key take from pendrive
